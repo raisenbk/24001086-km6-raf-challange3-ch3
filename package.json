@@ -1,0 +1,17 @@
+{
+  "name": "binar-fsw-challenge-04",
+  "version": "1.0.0",
+  "description": "Project HTTP Server dan DOM",
+  "main": "server/index.js",
+  "author": "Rafi Husein Bagaskara <rafihuseinbagaskara@gmail.com>",
+  "license": "",
+  "private": false,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0",
+    "url": "^0.11.3"
+  }
+}
